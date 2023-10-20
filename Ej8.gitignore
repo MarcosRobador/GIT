@@ -1,0 +1,23 @@
+# Ignorar archivos y directorios de macOS
+.DS_Store
+
+# Ignorar archivos de Thumbs.db de Windows
+Thumbs.db
+
+# Ignorar archivos temporales de Windows
+ehthumbs.db
+Desktop.ini
+# Ignorar la carpeta node_modules
+node_modules/
+# Ignorar archivos generados por Visual Studio Code
+.vscode/
+
+# Ignorar archivos generados por IntelliJ IDEA
+.idea/
+# Ignorar archivos de salida generados por webpack
+dist/
+
+# Ignorar archivos generados por compiladores
+build/
+# Ignorar un archivo con información confidencial
+config.json
